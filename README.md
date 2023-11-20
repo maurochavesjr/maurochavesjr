@@ -9,13 +9,14 @@
 
   **Aplicações e dados**
   
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Nodejs](https://img.shields.io/badge/-Nodejs-333333?style=flat&logo=nodejs)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 **DevOps**
 
@@ -30,8 +31,12 @@
 
   ## ⭐ Informações sobre minha conta GitHub
 
+<a href="https://github.com/maurochavesjr" title="ilustração do mapeamento de linguagens">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurochavesjr&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
+</a>
+
 <a href="https://github.com/maurochavesjr" title="Perfil do Mauro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maurochavesjr&theme=dracula&show_icons=true" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=maurochavesjr&theme=dracula&show_icons=true" />
 </a>
 <!---
 maurochavesjr/maurochavesjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
