@@ -29,6 +29,13 @@
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
+  ## ⭐ Onde me encontrar
+ **Sinta-se a vontade para entrar em contato, deixar críticas, sugestões ou elogios**
+
+[![Linkedin](https://img.shields.io/badge/-maurochavesjr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maurochavesjr)](https://www.linkedin.com/in/maurochavesjr)
+[![Hotmail Badge](https://img.shields.io/badge/-maurochavess@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maurochavess@hotmail.com)](mailto:maurochavess@hotmail.com)
+[![GitHub](https://img.shields.io/github/followers/maurochavesjr?label=follow&style=social)](https://github.com/maurochavesjr)
+
   ## ⭐ Informações sobre minha conta GitHub
 
 <a href="https://github.com/maurochavesjr" title="ilustração do mapeamento de linguagens">
@@ -36,8 +43,10 @@
 </a>
 
 <a href="https://github.com/maurochavesjr" title="Perfil do Mauro">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=maurochavesjr&theme=dracula&show_icons=true" />
-</a>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=maurochavesjr&theme=dracula&show_icons=true" />
+</a> <br> <br>
+
+
 <!---
 maurochavesjr/maurochavesjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
