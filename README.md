@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right" />
+r<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right" />
 
 ## 💜 Olá, meu nome é <strong>Mauro!</strong>
 <p align="left">
@@ -43,7 +43,7 @@
 </a>
 
 <a href="https://github.com/maurochavesjr" title="Perfil do Mauro">
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=maurochavesjr&theme=dracula&show_icons=true" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=maurochavesjr&theme=dracula&show_icons=true" />
 </a> <br> <br>
 
 
